@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+    padding: 10px;
+    background-color: lightslategray;
+}
+
+body {
+    border: 3px solid limegreen;
+}
+
+h1{
+    color: blueviolet;
+}
