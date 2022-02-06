@@ -11,3 +11,7 @@ body {
 h1{
     color: blueviolet;
 }
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
